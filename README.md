@@ -819,7 +819,7 @@
   ### [Решение](other/two_sum/main.py)
 
 
-   <img align="center" src="tasks/109.png">  
+   <img align="center" src="tasks/end.png">  
 
 
   
