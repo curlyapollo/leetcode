@@ -755,14 +755,71 @@
 
   ### [Решение](other/move_zeroes/main.py)
 
-## 101. Move Zeroes [(leetcode)](https://leetcode.com/problems/move-zeroes)
+## 101. Number of Students Doing Homework at a Given Time [(leetcode)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)
   ### Условие:  
   
-  <img src="tasks/100.png">  
+  <img src="tasks/101.png">  
 
-  ### [Решение](other/move_zeroes/main.py)
+  ### [Решение](other/number_of_students_doing_homework_at_a_given_time/main.py)
 
+## 102. Perfect Squares [(leetcode)](https://leetcode.com/problems/perfect-squares)
+  ### Условие:  
   
+  <img src="tasks/102.png">  
+
+  ### [Решение](other/perfect_squares/main.py)
+
+## 103. Roman to Integer [(leetcode)](https://leetcode.com/problems/roman-to-integer)
+  ### Условие:  
+  
+  <img src="tasks/103.png">  
+
+  ### [Решение](other/roman_to_integer/main.py)
+
+## 104. Rotate Image [(leetcode)](https://leetcode.com/problems/rotate-image)
+  ### Условие:  
+  
+  <img src="tasks/104.png">  
+
+  ### [Решение](other/rotate_image/main.py)
+
+## 105. Single Number [(leetcode)](https://leetcode.com/problems/single-number)
+  ### Условие:  
+  
+  <img src="tasks/105.png">  
+
+  ### [Решение](other/single_number/main.py)
+
+## 106. Spiral Matrix II [(leetcode)](https://leetcode.com/problems/spiral-matrix-ii)
+  ### Условие:  
+  
+  <img src="tasks/106.png">  
+
+  ### [Решение](other/spiral_matrix/main.py)
+
+## 107. Top K Frequent Elements [(leetcode)](https://leetcode.com/problems/top-k-frequent-elements)
+  ### Условие:  
+  
+  <img src="tasks/107.png">  
+
+  ### [Решение](other/top_k_frequent_elements/main.py)
+
+## 108. Top K Frequent Words [(leetcode)](https://leetcode.com/problems/top-k-frequent-words)
+  ### Условие:  
+  
+  <img src="tasks/108.png">  
+
+  ### [Решение](other/top_k_frequent_words/main.py)
+
+## 109. Two Sum [(leetcode)](https://leetcode.com/problems/two-sum)
+  ### Условие:  
+  
+  <img src="tasks/109.png">  
+
+  ### [Решение](other/two_sum/main.py)
+
+
+   <img align="center" src="tasks/109.png">  
 
 
   
